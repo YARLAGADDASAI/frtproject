@@ -4,8 +4,6 @@ Health Plus is a versatile and stylish medical-themed website that can help enha
 ### This web based Health care application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - https://mango-ground-048f0b600.3.azurestaticapps.net/
-
 ## Azure Services used for Project
 
 - Health bot
